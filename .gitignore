@@ -1,10 +1,21 @@
+#python related files
 *.pyc
 *egg-info*
 *pycache*
 
+#python checkpoints
 **.ipynb_checkpoints
+
+#logfiles
 **.log
+
+#docs
 docs/build/
 htmlcov/*
 .coverage
+
+#git
 .git/*
+
+#build
+build/*
