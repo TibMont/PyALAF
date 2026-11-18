@@ -5,7 +5,7 @@ PyALAF - The Python Active Learning with Acquisition Functions package
 [![made-with-sphinx-doc](https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg)](https://www.sphinx-doc.org/)
 [![Documentation Status](https://readthedocs.org/projects/pythonal/badge/?version=latest)](https://pythonal.readthedocs.io/en/latest/)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)]( http://perso.crans.org/besson/LICENSE.html)
-[![Tests](https://github.com/TibMont/PyALAF/actions/workflows/tests_main.yml/badge.svg)](https://github.com/TibMont/PyALAF/actions/workflows/tests_main.yml)
+[![Tests](https://github.com/TibMont/PyALAF/actions/workflows/tests.yml/badge.svg)](https://github.com/TibMont/PyALAF/actions/workflows/tests.yml)
 
 PyALAF is a framework for using Active Learning in Python. It is specifically designed to use so-called acquisition functions for Active Learning, as discussed e.g. in [[1]](https://doi.org/10.1016/j.ins.2018.09.060) and [[2]](https://doi.org/10.1016/j.ins.2023.01.028).
 The goal of this project is to enable sequential and batch-wise learning for pool and population data.
